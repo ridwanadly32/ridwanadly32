@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Mhd Ridwan Adly Nasution** .
+## Hi there 👋 I'm **Mhd Ridwan Adly Nasution** .
 
 ### 🚀 About Me
 - 🔭 Currently working on **web development projects**.
