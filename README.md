@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Mhd Ridwan Adly Nasution**, a passionate web developer and tech enthusiast who loves building and designing digital experiences.
+## Hi there 👋 I'm **Mhd Ridwan Adly Nasution** .
 
 <img src="https://github-readme-stats.vercel.app/api?username=ridwanadly32&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
 
