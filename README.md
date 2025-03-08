@@ -20,9 +20,9 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/ridwanadly32"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/ridwanadly"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://instagram.com/ridwanadly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/mhd-ridwan-adly-nasution/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.instagram.com/ridwaanst_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="ridwanadly8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ## 📊 GitHub Activity
