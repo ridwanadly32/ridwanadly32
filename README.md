@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ridwanadly32/ridwanadly32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mhd Ridwan Adly Nasution** .
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on **web development projects**.
+- 🌱 Learning **UI/UX Design & Frontend Development**.
+- 👯 Looking to collaborate on **open-source projects**.
+- 💬 Ask me about **HTML, CSS, JavaScript, and UI/UX**.
+- ⚡ Fun fact: I enjoy exploring new tech stacks and designing intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- 🔗 **GitHub:** [github.com/ridwanadly32](https://github.com/ridwanadly32)
+- 💼 **LinkedIn:** [linkedin.com/in/ridwanadly](https://linkedin.com/in/ridwanadly)
+- 📱 **Instagram:** https://www.instagram.com/ridwaanst_/
+- ✉️ **Email:** ridwanadly8@gmail.com
+
+Thanks for visiting my profile! 🚀
