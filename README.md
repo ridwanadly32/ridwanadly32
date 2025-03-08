@@ -10,12 +10,12 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working on **web development projects**.
-- 🌱 Learning **UI/UX Design & Frontend Development**.
-- 👯 Looking to collaborate on **open-source projects**.
-- 💬 Ask me about **HTML, CSS, JavaScript, and UI/UX**.
-- 🎨 Passionate about **design and animation**.
-- ⚡ Fun fact: I enjoy exploring new tech stacks and designing intuitive user interfaces.
+- 🎓 Student at **Universitas Sumatera Utara**.
+- 💻 Interested in **Web Programming**.
+- 🔨 Passionate about **building user-friendly web applications**.
+- 🚀 Exploring **new technologies and contributing to open-source projects**.
+- 🎨 Enjoys **designing intuitive and visually appealing interfaces**.
+
 
 ## 📫 Connect with Me
 <p align="center">
